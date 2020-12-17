@@ -1,0 +1,15 @@
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.csprojAssemblyReference.cache
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.AssemblyInfoInputs.cache
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.AssemblyInfo.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.csproj.CoreCompileInputs.cache
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\Todo.RazorComponent.input.cache
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Programming\VS\Blazor\Todo\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
