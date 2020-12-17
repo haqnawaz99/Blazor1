@@ -51,3 +51,5 @@ C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDec
 C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
 C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayEmployee.razor.g.cs
+C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\Programming\VS\Blazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmployee.razor.g.cs
